@@ -186,12 +186,6 @@ pip install causal-learn dowhy econml causalml python-louvain igraph leidenalg
 pip install scikit-learn scipy pandas numpy networkx matplotlib seaborn statsmodels
 ```
 
-### Google Colab
-All notebooks are designed to run on **Google Colab** with Google Drive mounting. Set your `BASE` path at the top of each notebook:
-```python
-BASE = "/content/drive/MyDrive/Colab Notebooks/NFHS-5/"
-```
-Place `NFHS5_key_indicators.xlsx` and `gsdp_states_2020_21.csv` in that directory.
 
 ### Run order
 ```
@@ -242,7 +236,7 @@ If you use this codebase, data analysis, or findings, please cite:
   title   = {Causal Learning for Strategic Policy Design in Health and
              Nutrition (Based on {NFHS}-5)},
   journal = {Statistics and Computing},
-  year    = {2025},
+  year    = {2026},
   note    = {Under review}
 }
 ```
