@@ -31,10 +31,6 @@ The stratified analysis reveals critical heterogeneity invisible to pooled infer
 .
 ├── notebooks/
 │   ├── nfhs_main.ipynb                  # Full pipeline: data → clustering → discovery → ATE
-│   ├── nfhs_clustering.ipynb            # Clustering parameter selection and evaluation
-│   ├── nfhs_causal_screening.ipynb      # Three-criterion screening + threshold calibration
-│   ├── nfhs_ate_estimation.ipynb        # ATE estimation (pooled, area, income stratified)
-│   └── nfhs_thresholds.ipynb            # Empirical threshold calibration (KDE analysis)
 │
 ├── data/
 │   ├── NFHS5_key_indicators.xlsx        # Raw NFHS-5 state-level key indicators (131 vars)
@@ -189,11 +185,7 @@ pip install scikit-learn scipy pandas numpy networkx matplotlib seaborn statsmod
 
 ### Run order
 ```
-1. nfhs_main.ipynb            # data loading, cleaning, correlation analysis
-2. nfhs_clustering.ipynb      # cluster parameter selection and evaluation
-3. nfhs_causal_screening.ipynb # PC algorithm + three-criterion screening
-4. nfhs_thresholds.ipynb      # threshold calibration (KDE plots)
-5. nfhs_ate_estimation.ipynb  # ATE estimation on the 10 validated pathways
+1. nfhs_main.ipynb            # all code in one notebook
 ```
 
 ---
