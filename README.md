@@ -32,9 +32,10 @@ The stratified analysis reveals critical heterogeneity invisible to pooled infer
 ├── notebooks/
 │   ├── nfhs_main.ipynb                  # Full pipeline: data → clustering → discovery → ATE
 │
-├── data/
+├── dataset/
 │   ├── NFHS5_key_indicators.xlsx        # Raw NFHS-5 state-level key indicators (131 vars)
-│   └── gsdp_states_2020_21.csv          # Per-capita GSDP by state (RBI, 2020-21)
+│   ├── NFHS_5_Factsheet_Data.xlsx        # Raw NFHS-5 state-level key indicators (131 vars)
+│   └── RS_Session_266_AU_1677_B_2.csv         # Per-capita GSDP by state (RBI, 2020-21)
 │
 ├── plots/
 │   ├── clustering/
