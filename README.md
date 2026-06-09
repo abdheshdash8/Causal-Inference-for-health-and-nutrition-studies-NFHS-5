@@ -187,13 +187,14 @@ pip install scikit-learn scipy pandas numpy networkx matplotlib seaborn statsmod
 ### Run order
 ```
 1. nfhs_main.ipynb            # all code in one notebook
+2. nfhs_main.py (if the nfhs_main.ipynb is not working)
+3. Google Colab link of the notebook - https://colab.research.google.com/drive/1LnR9iPcfLD2nBuX6wh7pAvHhlUITaj3w?usp=sharing
 ```
 
 ---
 
 ## Compiling the Paper
 
-The LaTeX paper uses the **Springer `sn-jnl` class** with the `sn-mathphys-num` bibliography style.
 
 ```bash
 cd report/
@@ -202,8 +203,6 @@ bibtex   sn-article_fixed
 pdflatex sn-article_fixed
 pdflatex sn-article_fixed
 ```
-
-**Note on `sn-jnl.cls`:** The included `sn-jnl.cls` is patched to remove the forced `threeparttable` wrapping from the `table` environment, which conflicts with `\resizebox` in the original Springer distribution. Use this patched version — do not replace it with the unpatched version from the Springer download.
 
 ---
 
