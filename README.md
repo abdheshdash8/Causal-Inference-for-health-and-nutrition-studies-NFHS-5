@@ -188,7 +188,7 @@ pip install scikit-learn scipy pandas numpy networkx matplotlib seaborn statsmod
 ```
 1. nfhs_main.ipynb            # all code in one notebook
 2. nfhs_main.py (if the nfhs_main.ipynb is not working)
-3. Google Colab link of the notebook - https://colab.research.google.com/drive/1LnR9iPcfLD2nBuX6wh7pAvHhlUITaj3w?usp=sharing
+3. Google Colab link of the notebook - [colab.research.google.com](https://colab.research.google.com/drive/1LnR9iPcfLD2nBuX6wh7pAvHhlUITaj3w?usp=sharing)
 ```
 
 ---
