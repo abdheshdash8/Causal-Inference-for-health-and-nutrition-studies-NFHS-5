@@ -71,11 +71,10 @@ The stratified analysis reveals critical heterogeneity invisible to pooled infer
 │
 ├── report/
 │   ├── sn-article_fixed.tex             # Main paper (Springer sn-jnl format)
-│   ├── sn-jnl.cls                       # Patched Springer journal class file
 │   ├── ref.bib                          # Complete BibTeX bibliography (46 entries)
-│   └── sn-mathphys-num.bst              # Springer bibliography style
 │
 └── README.md
+└── nfhs_main.py
 ```
 
 ---
