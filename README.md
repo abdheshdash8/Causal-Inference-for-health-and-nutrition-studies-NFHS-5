@@ -224,8 +224,7 @@ If you use this codebase, data analysis, or findings, please cite:
 ```bibtex
 @article{dash2025causal,
   author  = {Dash, Abdhesh and Singh, Rahul and Paul, Biplab},
-  title   = {Causal Learning for Strategic Policy Design in Health and
-             Nutrition (Based on {NFHS}-5)},
+  title   = {Causal Learning for Strategic Policy Design (Based on {NFHS}-5)},
   journal = {Statistics and Computing},
   year    = {2026},
   note    = {Under review}
