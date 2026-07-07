@@ -3,7 +3,7 @@
 
 **Author:** Abdhesh Dash · Department of Mathematics · Indian Institute of Technology Delhi  
 **Supervisor:** Dr. Rahul Singh · Co-supervisor: Dr. Biplab Paul  
-**Target Journal:** Statistics and Computing (Springer Nature)
+**Target Journal:** Transactions in Machine Learning and Research (TMLR)
 
 ---
 
