@@ -1,5 +1,5 @@
 # Causal Learning for Strategic Policy Design in Health and Nutrition
-### Based on NFHS-5 | IIT Delhi — Master's Thesis Project
+### Based on NFHS-5 | IIT Delhi (Master's Thesis Project)
 
 **Author:** Abdhesh Dash · Department of Mathematics · Indian Institute of Technology Delhi  
 **Supervisor:** Dr. Rahul Singh · Co-supervisor: Dr. Biplab Paul  
